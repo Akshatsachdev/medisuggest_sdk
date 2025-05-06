@@ -1,0 +1,6 @@
+spacy==3.0.6
+scispacy==0.4.0
+en-core-sci-sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz
+textblob==0.18.0
+requests==2.32.3
+psycopg2-binary==2.9.5
